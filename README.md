@@ -1,6 +1,6 @@
 # Snake
 
-Snake Game implementation written in C++ using ncurses library.
+Snake Game implementation, written in C++ using ncurses library.
 
 ![Game Play](screenshots/gameplay.gif)
 
